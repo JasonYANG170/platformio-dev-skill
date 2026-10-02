@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_EN.md)
+
 # PlatformIO Development Skill (platformio-dev-skill)
 
 AI Skill for PlatformIO embedded development. Provides scenario-driven recipes, configuration references, testing guides, and common pitfalls.

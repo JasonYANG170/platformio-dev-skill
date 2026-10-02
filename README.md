@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_EN.md)
+
 # PlatformIO 开发技能 (platformio-dev-skill)
 
 PlatformIO 嵌入式开发 AI 技能。提供场景驱动的开发指南、配置参考、测试框架和常见陷阱。
